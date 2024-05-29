@@ -1,5 +1,5 @@
 {
-    "name": "ai21",
+    "name": "ai21-sdk",
     "version": "1.0.0",
     "description": "NPM package to provision cloud infrastructure as code (IaC) using terraform",
     "main": "dist/index.js",

@@ -4,8 +4,7 @@ import TextImprovements from './textImprovements';
 import TextSegmentation from './textSegmentation';
 import ContextualAnswer from './contextualAnswers';
 
-const access_token = 'xxxxxxxxxxxxxxxxxxx';
-
+const access_token = 'xxxxxxxxxxxxxxxxxx';
 // Usage example
 const paraphrase = new Paraphrase(access_token);
 const grammaticalCorrection = new GrammaticalCorrection(access_token);
