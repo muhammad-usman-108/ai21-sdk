@@ -35,12 +35,11 @@ You can install this package using npm or yarn.
 // Usage example
 
 ```typescript
-import { 
-    Paraphrase, 
-    GrammaticalCorrection, 
-    TextImprovements,
-    TextSegmentation,
-    ContextualAnswer } from 'ai21-sdk';
+import Paraphrase from "ai21-sdk/dist/paraphrase";
+import GrammaticalCorrection from "ai21-sdk/dist/grammaticalCorrection";
+import TextImprovements from "ai21-sdk/dist/textImprovements";
+import TextSegmentation from "ai21-sdk/dist/textSegmentation";
+import ContextualAnswer from "ai21-sdk/dist/contextualAnswers";
 
 const access_token = 'xxxxxxxxxxxxxxxxxx';
 
