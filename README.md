@@ -5,14 +5,14 @@ A npm package designed specializing in Natural Language Processing, which develo
 AI21 Labs is a leading company in the field of artificial intelligence, specifically in natural language processing (NLP) and generative AI. They develop advanced AI models and tools to assist in various tasks involving text understanding, generation, and manipulation. AI21's models are known for their high performance and capability to generate human-like text.
 
 ## Main Functions
-1. *Text Generation*: 
+1. **Text Generation**: 
 AI21 models can generate coherent and contextually relevant text based on a given prompt. This is useful for content creation, creative writing, and other applications requiring natural language generation.
 
-2. *Text Summarization*: The models can summarize long pieces of text into shorter, more concise versions without losing the essential information.
+2. **Text Summarization**: The models can summarize long pieces of text into shorter, more concise versions without losing the essential information.
 
-3. *Text Completion*: Given the start of a sentence or paragraph, AI21 models can complete the text in a coherent manner.
+3. **Text Completion**: Given the start of a sentence or paragraph, AI21 models can complete the text in a coherent manner.
 
-4. *Question Answering*: These models can answer questions based on provided context or general knowledge.
+4. **Question Answering**: These models can answer questions based on provided context or general knowledge.
 
 ## Installation
 
