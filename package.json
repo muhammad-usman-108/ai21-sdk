@@ -1,0 +1,29 @@
+{
+    "name": "ai21",
+    "version": "1.0.0",
+    "description": "NPM package to provision cloud infrastructure as code (IaC) using terraform",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "npm run build && node dist/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/muhammad-usman-108/ai21.git"
+    },
+    "keywords": [
+        "ai21",
+        "artifical-intelligence",
+        "paraphrase"
+    ],
+    "author": "muhammad-usman-108",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/muhammad-usman-108/ai21/issues"
+    },
+    "homepage": "https://github.com/muhammad-usman-108/ai21#readme",
+    "devDependencies": {
+        "@types/node": "^20.12.12",
+        "typescript": "^5.4.5"
+    }
+}
