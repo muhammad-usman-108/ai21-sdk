@@ -1,7 +1,7 @@
 {
     "name": "ai21-sdk",
-    "version": "1.0.0",
-    "description": "NPM package to provision cloud infrastructure as code (IaC) using terraform",
+    "version": "1.0.1",
+    "description": "A npm package designed specializing in Natural Language Processing, which develops AI systems that can understand and generate natural language.",
     "main": "dist/index.js",
     "scripts": {
         "build": "tsc",
