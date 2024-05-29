@@ -1,4 +1,7 @@
 # ai21-sdk (An unofficial NPM package for AI21 Labs)
+
+[![npm version](https://badge.fury.io/js/ai21-sdk.svg)](https://badge.fury.io/js/ai21-sdk) [![created by](https://img.shields.io/badge/created%20by-M.%20Usman-blue.svg?longCache=true&style=flat-square)](https://github.com/muhammad-usman-108) [![star](https://img.shields.io/github/stars/muhammad-usman-108/ai21-sdk.svg?style=flat-square)](https://github.com/muhammad-usman-108/ai21-sdk/stargazers) ![size](https://img.shields.io/github/size/muhammad-usman-108/ai21-sdk/dist/main.js?color=green&style=flat-square) ![npm downloads](https://img.shields.io/npm/d18m/ai21-sdk.svg?color=red&style=flat-square) [![license](https://img.shields.io/github/license/muhammad-usman-108/ai21-sdk.svg?style=flat-square)](https://github.com/muhammad-usman-108/ai21-sdk.js/blob/main/LICENSE)
+
 A npm package designed specializing in Natural Language Processing, which develops AI systems that can understand and generate natural language. AI21’s tools provide robust and flexible solutions for developers looking to integrate advanced language models into their applications.
 
 ## About AI21 Labs

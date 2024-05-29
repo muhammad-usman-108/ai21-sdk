@@ -1,6 +1,6 @@
 {
     "name": "ai21-sdk",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A npm package designed specializing in Natural Language Processing, which develops AI systems that can understand and generate natural language.",
     "main": "dist/index.js",
     "scripts": {
