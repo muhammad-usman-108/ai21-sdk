@@ -14,6 +14,10 @@ AI21 models can generate coherent and contextually relevant text based on a give
 
 4. **Question Answering**: These models can answer questions based on provided context or general knowledge.
 
+## How to Use
+1. Create an account and Sign In: https://studio.ai21.com/
+2. Go into the Profile and Click on API key. Copy the API key and we will use it to authenticate your account.
+
 ## Installation
 
 You can install this package using npm or yarn.
@@ -56,13 +60,13 @@ contextualAnswer.getContextualAnswer('Something large text context', 'Did the ec
 
 ### Functions
 
-| Function | Description | Output |
-|---------|---------| ---------|
-| getParaphrase |  |  | 
-| getGrammaticalCorrection |  |  |
-| getTextImprovements |  |  | 
-| getTextSegmentation |  |  |
-| getContextualAnswer |  |  | 
+| Function | Description |
+|---------|---------|
+| getParaphrase | Takes a piece of text and returns a list of paraphrases that convey the same meaning using different words. | 
+| getGrammaticalCorrection | Detects grammar, spelling, punctuation, and word choice errors in text, and suggests how to correct them. |
+| getTextImprovements | Provides rewrite recommendations for improving the fluency, clarity and style of the input text. |
+| getTextSegmentation | Takes a document (raw text or URL) and returns segmentation into paragraphs by topic. |
+| getContextualAnswer | Receives a document and a question and returns an answer based entirely on the document context. |
 
 ## Scripts
 
